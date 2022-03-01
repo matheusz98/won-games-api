@@ -61,7 +61,7 @@
       "pluginOptions": {}
     },
     "gallery": {
-      "model": "file",
+      "collection": "file",
       "via": "related",
       "allowedTypes": [
         "images"
